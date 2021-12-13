@@ -1,0 +1,27 @@
+body {
+    background-color: #121212;
+}
+.container-md {
+
+    position:relative;
+    top: 80px;
+    min-height: 250px;
+
+}
+
+
+.container-lg {
+    position:relative;
+    top:150px;
+    min-height: 350px;
+    
+}
+.col-md-4 {
+    border: 1px solid white;
+    height: 150px;
+}
+
+.col-md-3 {
+    border: 1px solid white;
+}
+
